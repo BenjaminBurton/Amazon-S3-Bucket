@@ -12,7 +12,8 @@ Steps Involved:
 
 - ✅ Log into AWS Management console
 - ✅ Choose region
-- ✅ Navigate to the Amazon S3 console (Amazon S3 buckets form a global namespace, even though each bucket is created in a specific region)
+- ✅ Navigate to the Amazon S3 console 
+- (Amazon S3 buckets form a global namespace, even though each bucket is created in a specific region)
 - ✅ Start the create bucket process
 - ✅ Name your bucket
 - ✅ Choose your region
