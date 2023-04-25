@@ -17,7 +17,6 @@ Steps Involved:
 - ✅ Start the create bucket process
 - ✅ Name your bucket
 - ✅ Choose your region
-- ✅ 
 
 # Upload object
 
